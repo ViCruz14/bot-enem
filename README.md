@@ -1,0 +1,1 @@
+Bot criado para treinar aprendizados em node. Retorna o local de prova ao enviar por whatsapp o número de inscrição. Necessário baixar o banco em json pra rodar
